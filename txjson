@@ -1,0 +1,358 @@
+{
+    "name": "Legal Contract",
+    "children": [
+        {
+            "name": "Agreement",
+            "children": [
+                {
+                    "name": "Framework Services Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Marketing Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Endorsement Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Sponsorship Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Agency Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Equipment Hire Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Hire Purchase Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Consumer Hire Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Confidentiality Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Non-Confidentiality Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Collaboration Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Consignment Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Consultancy Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Supply of Goods Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Managed services agreement",
+                    "children": []
+                },
+                {
+                    "name": "Manufacturing Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Sale of Equipment Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Services Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Service Level Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Distribution Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Franchise Agreement",
+                    "children": []
+                },
+                {
+                    "name": "IT Services Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Personal Data Processing Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Shared Facilities Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Software Development Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Software Licence Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Software Maintenance Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Systems Integration Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Art Loan Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Click-wrap Software Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Website Design and Development Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Website Hosting Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Web-wrap Software Licence Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Team Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Variation Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Back-to-Back Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Terms of reference",
+                    "children": []
+                },
+                {
+                    "name": "Outsourcing Agreement",
+                    "children": []
+                },
+                {
+                    "name": "Termination Agreement",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Licence",
+            "children": [
+                {
+                    "name": "Merchandising Licence",
+                    "children": []
+                },
+                {
+                    "name": "Evaluation Licence",
+                    "children": []
+                },
+                {
+                    "name": "Interface information Licence",
+                    "children": []
+                },
+                {
+                    "name": "Patent & Know-how",
+                    "children": []
+                },
+                {
+                    "name": "Website Content",
+                    "children": []
+                },
+                {
+                    "name": "Website Linking",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "TCs",
+            "children": [
+                {
+                    "name": "Prize competition",
+                    "children": []
+                },
+                {
+                    "name": "Prize draw",
+                    "children": []
+                },
+                {
+                    "name": "Purchase Order",
+                    "children": []
+                },
+                {
+                    "name": "Supply of Goods",
+                    "children": []
+                },
+                {
+                    "name": "Supply of Goods and Services",
+                    "children": []
+                },
+                {
+                    "name": "Supply of Goods Services and Digital Content",
+                    "children": []
+                },
+                {
+                    "name": "Supply of Services",
+                    "children": []
+                },
+                {
+                    "name": "Website",
+                    "children": []
+                },
+                {
+                    "name": "Wifi Access",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Letter",
+            "children": [
+                {
+                    "name": "Assignment of benefits of contract",
+                    "children": []
+                },
+                {
+                    "name": "Letter agreement to vary",
+                    "children": []
+                },
+                {
+                    "name": "Letter assignment of contract ",
+                    "children": []
+                },
+                {
+                    "name": "Letter of intent",
+                    "children": []
+                },
+                {
+                    "name": "Letter of intent (cross-border transaction)",
+                    "children": []
+                },
+                {
+                    "name": "Novation letter agreement",
+                    "children": []
+                },
+                {
+                    "name": "Reservation of rights",
+                    "children": []
+                },
+                {
+                    "name": "Side letter",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Guarantee",
+            "children": [
+                {
+                    "name": "Parent Company",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Deed",
+            "children": [
+                {
+                    "name": "Assignment of contract",
+                    "children": []
+                },
+                {
+                    "name": "Novation of contract",
+                    "children": []
+                },
+                {
+                    "name": "Performance guarantee",
+                    "children": []
+                },
+                {
+                    "name": "Rectification of contract",
+                    "children": []
+                },
+                {
+                    "name": "Termination of contract",
+                    "children": []
+                },
+                {
+                    "name": "Variation of contract",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Assignment",
+            "children": [
+                {
+                    "name": "IP Rights",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "ITT",
+            "children": [
+                {
+                    "name": "Bidding agreement",
+                    "children": []
+                },
+                {
+                    "name": "PCR 2006",
+                    "children": []
+                },
+                {
+                    "name": "PCR 2015",
+                    "children": []
+                },
+                {
+                    "name": "Private sector outsourcing",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Notice",
+            "children": [
+                {
+                    "name": "Assignment",
+                    "children": []
+                },
+                {
+                    "name": "Remedy breach of contract",
+                    "children": []
+                },
+                {
+                    "name": "Termination of contract",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
