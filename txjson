@@ -199,6 +199,66 @@
                     "name": "Termination Agreement",
                     "practiceArea": "Commercial",
                     "children": []
+                },
+                {
+                    "name": "Agreement for lease",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Agreement for surrender",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Assignment agreement",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Assured shorthold tenancy",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Authorised guarantee agreement",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Commercial lease",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Common law tenancy",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Confidentiality agreement",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Exclude security of tenure",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Exclusivity agreement",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Residential lease: Flat",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Residential lease: House",
+                    "practiceArea": "Property",
+                    "children": []
                 }
             ]
         },
@@ -234,6 +294,56 @@
                 {
                     "name": "Website Linking",
                     "practiceArea": "Commercial",
+                    "children": []
+                },
+                {
+                    "name": "Access to land",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Alter",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Alterations",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Assign",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Carry out works",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Change of use",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Charge",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Retrospective for alterations",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Sharing leasehold premises with third party",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Underlet",
+                    "practiceArea": "Property",
                     "children": []
                 }
             ]
@@ -331,6 +441,36 @@
                 {
                     "name": "Side letter",
                     "practiceArea": "Commercial",
+                    "children": []
+                },
+                {
+                    "name": "Advice",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Assured shorthold tenancy agreement\u00a0",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Certificate of title",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Heads of terms",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Letter of undertaking",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Severing a joint tenancy",
+                    "practiceArea": "Property",
                     "children": []
                 }
             ]
@@ -436,6 +576,141 @@
                 {
                     "name": "Termination of contract",
                     "practiceArea": "Commercial",
+                    "children": []
+                },
+                {
+                    "name": "Notice of agreement to surrender",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Notice to extend validity of licence",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Prior notice",
+                    "practiceArea": "Property",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Certificate",
+            "practiceArea": "Property",
+            "children": [
+                {
+                    "name": "Land",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Title",
+                    "practiceArea": "Property",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Report",
+            "practiceArea": "Property",
+            "children": [
+                {
+                    "name": "Lease",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Title to freehold",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Title to leasehold",
+                    "practiceArea": "Property",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "DOT",
+            "practiceArea": "Property",
+            "children": [
+                {
+                    "name": "Gift of property",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Tenants in common",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Third party beneficiary",
+                    "practiceArea": "Property",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "CPSE",
+            "practiceArea": "Property",
+            "children": [
+                {
+                    "name": "CPSE.1",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "CPSE.2",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "CPSE.3",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "CPSE.4",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "CPSE.5",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "CPSE.6",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "CPSE.7",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "STER",
+                    "practiceArea": "Property",
+                    "children": []
+                },
+                {
+                    "name": "Supplemental",
+                    "practiceArea": "Property",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Memo",
+            "practiceArea": "Property",
+            "children": [
+                {
+                    "name": "Rent review memorandum",
+                    "practiceArea": "Property",
                     "children": []
                 }
             ]
