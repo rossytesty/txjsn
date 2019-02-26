@@ -3,353 +3,439 @@
     "children": [
         {
             "name": "Agreement",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "Framework Services Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Marketing Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Endorsement Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Sponsorship Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Agency Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Equipment Hire Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Hire Purchase Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Consumer Hire Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Confidentiality Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Non-Confidentiality Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Collaboration Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Consignment Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Consultancy Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Supply of Goods Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Managed services agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Manufacturing Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Sale of Equipment Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Services Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Service Level Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Distribution Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Franchise Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "IT Services Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Personal Data Processing Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Shared Facilities Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Software Development Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Software Licence Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Software Maintenance Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Systems Integration Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Art Loan Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Click-wrap Software Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Website Design and Development Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Website Hosting Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Web-wrap Software Licence Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Team Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Variation Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Back-to-Back Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Terms of reference",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Outsourcing Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Termination Agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
         },
         {
             "name": "Licence",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "Merchandising Licence",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Evaluation Licence",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Interface information Licence",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Patent & Know-how",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Website Content",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Website Linking",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
         },
         {
             "name": "TCs",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "Prize competition",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Prize draw",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Purchase Order",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Supply of Goods",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Supply of Goods and Services",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Supply of Goods Services and Digital Content",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Supply of Services",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Website",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Wifi Access",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
         },
         {
             "name": "Letter",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "Assignment of benefits of contract",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Letter agreement to vary",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Letter assignment of contract ",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Letter of intent",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Letter of intent (cross-border transaction)",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Novation letter agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Reservation of rights",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Side letter",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
         },
         {
             "name": "Guarantee",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "Parent Company",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
         },
         {
             "name": "Deed",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "Assignment of contract",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Novation of contract",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Performance guarantee",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Rectification of contract",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Termination of contract",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Variation of contract",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
         },
         {
             "name": "Assignment",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "IP Rights",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
         },
         {
             "name": "ITT",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "Bidding agreement",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "PCR 2006",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "PCR 2015",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Private sector outsourcing",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
         },
         {
             "name": "Notice",
+            "practiceArea": "Commercial",
             "children": [
                 {
                     "name": "Assignment",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Remedy breach of contract",
+                    "practiceArea": "Commercial",
                     "children": []
                 },
                 {
                     "name": "Termination of contract",
+                    "practiceArea": "Commercial",
                     "children": []
                 }
             ]
