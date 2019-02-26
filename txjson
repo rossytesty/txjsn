@@ -6,7 +6,9 @@
             "children": [
                 {
                     "name": "Framework Services Agreement",
-                    "children": []
+                    "children": [
+                        "name" : "HELLO"
+                    ]
                 },
                 {
                     "name": "Marketing Agreement",
